@@ -155,4 +155,4 @@ bin/test
 
 Github Sign-In for Rails is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-This is a derivative work of `github_sign_in` by Happybuild.
+Github is a registered trademark of Github, Inc. This project is not operated by or in any way affiliated with Github, Inc.
